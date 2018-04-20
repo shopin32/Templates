@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbotic.GrainInterfaces", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbotic.Client", "Symbotic.Client\Symbotic.Client.csproj", "{24F37E63-4C68-4DAF-AAF1-C17400FD6047}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbotic.Spark", "Symbotic.Spark\Symbotic.Spark.csproj", "{2BA5D3FD-0E59-49CA-8A47-67D195E56E85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{24F37E63-4C68-4DAF-AAF1-C17400FD6047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F37E63-4C68-4DAF-AAF1-C17400FD6047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F37E63-4C68-4DAF-AAF1-C17400FD6047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA5D3FD-0E59-49CA-8A47-67D195E56E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA5D3FD-0E59-49CA-8A47-67D195E56E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA5D3FD-0E59-49CA-8A47-67D195E56E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA5D3FD-0E59-49CA-8A47-67D195E56E85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
